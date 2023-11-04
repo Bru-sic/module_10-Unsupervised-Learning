@@ -6,9 +6,11 @@ Date: 4 November 2023
 
 # Submission
 Files associated with this solution:   
-* [/Code/crypto_investments.ipynb (main Jupyter Lab Notebook)](./Code/crypto_investments.ipynb)
-* [/Code/shooting_stars.py (Shooting Start plot python module)](./Code/shooting_stars.py)
- 
+* [Main Jupyter Lab Notebook: /Code/crypto_investments.ipynb](./Code/crypto_investments.ipynb)
+* [Shooting Start plot python module: /Code/shooting_stars.py](./Code/shooting_stars.py)
+
+# Summary
+Use K-Means and Principal Component Analysis (PCA) unsupervised machine learning applications to determine relationships between columns of data and produce a smaller number of datasets whilst preserving a high degree of useful data features, so that further focussed analysis can be conducted and obvious relationships observed.
 
 
 # Briefing
@@ -27,7 +29,7 @@ The CSV file that’s provided for this Homework contains the price change data 
 Further details on the assignment briefing are available in [Briefing.md](./Briefing.md)
 
 ## Inspiration
-* The Shooting Star plots was inspired (without looking at the code) from: https://stackoverflow.com/a/59679114
+* The Shooting Star plots was inspired conceptually, without using or copying any source code, from: https://towardsdatascience.com/visualizing-clusters-with-pythons-matplolib-35ae03d87489
 
 ![Example of Shooting Star Plot](./Images/shooting-star-plot.jpg)
 
